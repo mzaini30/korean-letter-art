@@ -1,0 +1,53 @@
+/* black-han-sans-regular - korean_latin */
+@font-face {
+  font-family: 'Black Han Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/1/black-han-sans-v7-korean_latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Black Han Sans Regular'), local('BlackHanSans-Regular'),
+       url('../fonts/1/black-han-sans-v7-korean_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/1/black-han-sans-v7-korean_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/1/black-han-sans-v7-korean_latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/1/black-han-sans-v7-korean_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/1/black-han-sans-v7-korean_latin-regular.svg#BlackHanSans') format('svg'); /* Legacy iOS */
+}
+
+.hasil h1:nth-child(1) {
+  font-family: 'Black Han Sans';
+}
+
+/* sunflower-300 - korean_latin */
+@font-face {
+  font-family: 'Sunflower';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/2/sunflower-v8-korean_latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Sunflower Light'), local('Sunflower-Light'),
+       url('../fonts/2/sunflower-v8-korean_latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/2/sunflower-v8-korean_latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/2/sunflower-v8-korean_latin-300.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/2/sunflower-v8-korean_latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/2/sunflower-v8-korean_latin-300.svg#Sunflower') format('svg'); /* Legacy iOS */
+}
+
+.hasil h1:nth-child(2) {
+  font-family: 'Sunflower';
+}
+
+/* kirang-haerang-regular - korean_latin */
+@font-face {
+  font-family: 'Kirang Haerang';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/3/kirang-haerang-v7-korean_latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Kirang Haerang Regular'), local('KirangHaerang-Regular'),
+       url('../fonts/3/kirang-haerang-v7-korean_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/3/kirang-haerang-v7-korean_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/3/kirang-haerang-v7-korean_latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/3/kirang-haerang-v7-korean_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/3/kirang-haerang-v7-korean_latin-regular.svg#KirangHaerang') format('svg'); /* Legacy iOS */
+}
+
+.hasil h1:nth-child(3) {
+ font-family: 'Kirang Haerang'; 
+}

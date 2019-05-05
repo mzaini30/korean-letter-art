@@ -9,5 +9,5 @@ $('.navbar-brand').click(function(){
 })
 
 $('.teks').on('keyup', function(){
-	$('.hasil').html($('.teks').val())
+	$('.hasil h1').html($('.teks').val())
 })
